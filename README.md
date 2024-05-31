@@ -1,11 +1,11 @@
 # Airbnb-NYC-2019-Data-Analysis
 
-• Developed a data pipeline using Pandas for data cleaning, transformation, and feature engineering to prepare the dataset for in-depth analysis.
+• Optimized Pricing Strategies: Identified significant price variations with entire home/apartment listings in Manhattan averaging higher prices than private rooms in Brooklyn and Queens.
 
-• Conducted a spatial distribution analysis that identified high-density Airbnb areas, aiding in strategic decision-making for property investments.
+• Impact of Reviews on Pricing and Occupancy Rates: Found that listings with frequent and high number of reviews commanded up to 30% higher prices and better occupancy rates.
 
-• Utilized machine learning techniques, including one-hot encoding for categorical data preparation and correlation matrices to uncover relationships between reviews, prices, and occupancy rates.
+• Spatial Distribution Insights: Revealed dense clusters of Airbnb listings in central Manhattan and parts of Brooklyn, guiding urban planning and regulatory decisions.
 
-• Created interactive visualizations with Folium to map listing distributions across NYC, providing intuitive insights into market trends.
+• Data Handling and Transformation: Analyzed a dataset of 48,895 Airbnb listings using advanced Python techniques for data cleaning, transformation, and visualization.
 
-• Generated actionable insights for stakeholders, such as optimal pricing strategies and investment opportunities, by analyzing variations in pricing across different neighborhoods and correlating them with room types and review metrics.
+• Correlation Analysis: Demonstrated that listings with higher minimum night requirements had higher average prices, influencing host pricing strategies and regulatory frameworks.
